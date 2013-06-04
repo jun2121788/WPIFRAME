@@ -107,8 +107,6 @@ php_extensions:
   - xmlrpc
   - xmlwriter
   - xsl
-  - yaml
-  - ZendGuardLoader
   - zip
   
 db1:
